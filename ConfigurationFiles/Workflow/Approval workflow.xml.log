@@ -1,0 +1,39 @@
+****************************
+   PLMXML Log File Header   
+   ----------------------   
+            IMPORT          
+****************************
+Server Hostname :  TCPLM
+Teamcenter version :  Teamcenter V11000.2.7.71_20190128.00
+Syslog-FileName :  C:\Users\ADMINI~1\AppData\Local\Temp\tcserver.exe78090b4.syslog
+LOG-FileName is:  Approval workflow.xml.log
+XML-FileName is:  Approval workflow.xml
+XSLT-FileName is:  
+TransferMode Name :  workflow_template_import
+OverWrite-ExistingData is:  0
+CheckOutObjects-UponExport is:  0
+CheckFor-ExportPrivilege is:  1
+****************************
+Workflow Template Import Mode: No Overwrite
+
+
+
+
+///// Teamcenter Import Summary BEGIN: Processed the following PLMXML Elements
+  Element:: UserData                                           Count:: 4 
+  Element:: WorkflowBusinessRule                               Count:: 1 
+  Element:: WorkflowBusinessRuleHandler                        Count:: 1 
+  Element:: WorkflowHandler                                    Count:: 8 
+  Element:: WorkflowTemplate                                   Count:: 5 
+///// Teamcenter Import Summary: Processed the following Teamcenter Objects
+ TCObject:: EPMBRHandler                                       Count:: 1 
+ TCObject:: EPMBusinessRule                                    Count:: 1 
+ TCObject:: EPMDoTaskTemplate                                  Count:: 1 
+ TCObject:: EPMHandler                                         Count:: 8 
+ TCObject:: EPMPerformSignoffTaskTemplate                      Count:: 1 
+ TCObject:: EPMReviewTaskTemplate                              Count:: 1 
+ TCObject:: EPMSelectSignoffTaskTemplate                       Count:: 1 
+ TCObject:: EPMTaskTemplate                                    Count:: 1 
+///// Teamcenter Import Summary END: /////
+
+
